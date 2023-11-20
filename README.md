@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍💻 [Your Name]'s Data Science Portfolio
+👩‍💻 Shubham bhujade Data Science Portfolio : 
+
 Welcome to my data science journey! I am a passionate data science student eager to explore the vast world of data. Below, you'll find a collection of my projects, skills, and learning experiences.
 
 📚 Education
