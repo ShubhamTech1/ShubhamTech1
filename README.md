@@ -22,10 +22,19 @@ Welcome to my data science journey! I am a passionate data science student eager
 [Current Program and Year]
 Relevant Courses: [List of key courses related to data science]
 🚀 Projects
-1. [Project Name 1]
-Description: [A brief description of the project and its objectives]
-Technologies Used: [List of tools, languages, and frameworks]
-Link to Repository: [Link to the GitHub repository]
+### 1. [DS Project 1]
+
+- **Description:** This project aims to predict whether an individual's salary is less than $50,000 or greater than $50,000 based on various demographic and employment features. It involves the development of a machine learning classification model to assist in income categorization.
+
+- **Technologies Used:**
+  - **Programming Language:** Python
+  - **Machine Learning Libraries:** Scikit-Learn, TensorFlow
+  - **Data Manipulation and Analysis:** Pandas, NumPy
+  - **Data Visualization:** Matplotlib, Seaborn
+  - **Jupyter Notebooks:** Used for exploratory data analysis (EDA) and model Building
+
+- **Link to Repository:** [Link to the GitHub repository]
+
 2. [Project Name 2]
 Description: [A brief description of the project and its objectives]
 Technologies Used: [List of tools, languages, and frameworks]
