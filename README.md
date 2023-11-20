@@ -46,6 +46,7 @@ I am currently focusing on enhancing my skills in:
 [Specific Skill 2]
 📊 GitHub Stats
 Your GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 📫 Let's Connect!
 LinkedIn: [Your LinkedIn Profile]
