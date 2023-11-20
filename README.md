@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 
 Welcome to my data science journey! I am a passionate data science student eager to explore the vast world of data. Below, you'll find a collection of my projects, skills, and learning experiences.
 
-📚 Education
-[University Name]
-[Current Program and Year]
-Relevant Courses: [List of key courses related to data science]
 🚀 Projects
-### 1. [DS Project 1]
+1. DS Project 1
 
 - **Description:** This project aims to predict whether an individual's salary is less than $50,000 or greater than $50,000 based on various demographic and employment features. It involves the development of a machine learning classification model to assist in income categorization.
 
