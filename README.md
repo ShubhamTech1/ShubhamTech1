@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 Welcome to my data science journey! I am a passionate data science student eager to explore the vast world of data. Below, you'll find a collection of my projects, skills, and learning experiences.
 
-🚀 Projects
+🚀 Projects:
+
 1] Build a machine learning classification model to assist in income categorization:
 
 - **Description:** This project aims to predict whether an individual's salary is less than $50,000 or greater than $50,000 based on various demographic and employment features. It involves the development of a machine learning classification model to assist in income categorization.
@@ -43,7 +44,41 @@ Welcome to my data science journey! I am a passionate data science student eager
 
 
 
-2] Delivery Time Prediction Model
+
+2] Sales Prediction with Decision Tree and Random Forest
+
+- **Description:** This project revolves around building predictive models, specifically a Decision Tree and Random Forest, to identify the various attributes contributing to high, medium, low sales for a cloth manufacturing company. By leveraging machine learning techniques, the goal is to gain insights into the factors influencing sales and create models capable of making accurate sales predictions.
+
+- **Objectives:**
+ 1. **Data Collection:**Assemble a comprehensive dataset containing attributes related to the cloth manufacturing process, marketing strategies, and other relevant 
+     factors.
+ 2. **Exploratory Data Analysis (EDA):**Perform exploratory data analysis to understand the distribution of features, identify patterns, and uncover potential correlations with sales.
+ 3. **Data Preprocessing:**Handle missing values, outliers, and any necessary encoding of categorical variables, Prepare the data for model training by scaling or normalizing features as needed.
+ 4. **Model Development:** 
+   1)**Decision Tree Model:**
+      - Implement a Decision Tree model to predict sales based on the identified attributes.
+      - Tune hyperparameters to optimize the model's performance.
+      - Evaluate the Decision Tree model's accuracy and interpretability.
+   2)**Random Forest Model:**
+      - Build a Random Forest model to enhance the predictive capabilities of the Decision Tree.
+      - Evaluate and compare the performance of the Random Forest model against the Decision Tree.
+ 5. **Insights and Recommendations:**Explore the importance of different attributes in influencing sales by analyzing feature importance scores from the models.
+
+
+- **Technologies Used:**
+  - **Programming Language:** Python
+  - **Machine Learning Libraries:** Scikit-Learn
+  - **Data Manipulation and Analysis:** Pandas, NumPy
+  - **Data Visualization:** Matplotlib, Seaborn
+  - **Jupyter Notebooks:** Used for model development and analysis
+
+- **Link to Repository:** [Link to the GitHub repository]
+
+
+
+
+
+3] Delivery Time Prediction Model
 
 - **Description:** This project involves building a Simple Linear Regression model to understand the relationship between the time taken for sorting items and the time taken for the actual delivery in a logistics company. The goal is to predict the delivery time based on the sorting time, enabling the company to optimize its operations.
 
@@ -53,7 +88,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   - **Data Manipulation and Analysis:** Pandas, NumPy
   - **Data Visualization:** Matplotlib, Seaborn
   - **Jupyter Notebooks:** Used for exploratory data analysis (EDA) and model development
-  - **GitHub:** Version control and collaboration
+
 
 - **Project Objectives:**
   1. **Data Collection:** Gather data on sorting time and corresponding delivery time for a set of deliveries.
