@@ -28,7 +28,7 @@ Relevant Courses: [List of key courses related to data science]
 
 - **Technologies Used:**
   - **Programming Language:** Python
-  - **Machine Learning Libraries:** Scikit-Learn, TensorFlow
+  - **Machine Learning Libraries:** Scikit-Learn
   - **Data Manipulation and Analysis:** Pandas, NumPy
   - **Data Visualization:** Matplotlib, Seaborn
   - **Jupyter Notebooks:** Used for exploratory data analysis (EDA) and model Building
