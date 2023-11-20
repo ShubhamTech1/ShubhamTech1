@@ -50,19 +50,21 @@ Welcome to my data science journey! I am a passionate data science student eager
 - **Description:** This project revolves around building predictive models, specifically a Decision Tree and Random Forest, to identify the various attributes contributing to high, medium, low sales for a cloth manufacturing company. By leveraging machine learning techniques, the goal is to gain insights into the factors influencing sales and create models capable of making accurate sales predictions.
 
 - **Objectives:**
- 1. **Data Collection:**Assemble a comprehensive dataset containing attributes related to the cloth manufacturing process, marketing strategies, and other relevant 
+ 1. Data Collection: Assemble a comprehensive dataset containing attributes related to the cloth manufacturing process, marketing strategies, and other relevant 
      factors.
- 2. **Exploratory Data Analysis (EDA):**Perform exploratory data analysis to understand the distribution of features, identify patterns, and uncover potential correlations with sales.
- 3. **Data Preprocessing:**Handle missing values, outliers, and any necessary encoding of categorical variables, Prepare the data for model training by scaling or normalizing features as needed.
- 4. **Model Development:** 
-   1)**Decision Tree Model:**
+ 2. Exploratory Data Analysis (EDA): Perform exploratory data analysis to understand the distribution of features, identify patterns, and uncover potential correlations with sales.
+ 3. Data Preprocessing: Handle missing values, outliers, and any necessary encoding of categorical variables, Prepare the data for model training by scaling or normalizing features as needed.
+ 4. Model Development:
+    
+   1)Decision Tree Model:
       - Implement a Decision Tree model to predict sales based on the identified attributes.
       - Tune hyperparameters to optimize the model's performance.
       - Evaluate the Decision Tree model's accuracy and interpretability.
-   2)**Random Forest Model:**
+      
+   2)Random Forest Model:
       - Build a Random Forest model to enhance the predictive capabilities of the Decision Tree.
       - Evaluate and compare the performance of the Random Forest model against the Decision Tree.
- 5. **Insights and Recommendations:**Explore the importance of different attributes in influencing sales by analyzing feature importance scores from the models.
+ 6. Insights and Recommendations: Explore the importance of different attributes in influencing sales by analyzing feature importance scores from the models.
 
 
 - **Technologies Used:**
