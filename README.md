@@ -40,9 +40,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   5. **Model Evaluation :** Interpret the model's predictions and evaluate its generalization to unseen data.
   6. **Insights and Recommendations:** Apply the trained Naive Bayes model to predict salary categories for new or unseen data.
    
-- **Link to Repository:** [Link to the GitHub repository]
-
-
+- **Link to Repository:** (https://github.com/ShubhamTech1/1st-Project) 
 
 
 2] Sales Prediction with Decision Tree and Random Forest
