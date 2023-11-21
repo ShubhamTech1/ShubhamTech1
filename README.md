@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 I'm Shubham bhujade
 
 <!--
 **ShubhamTech1/ShubhamTech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍💻 Shubham bhujade Data Science Portfolio : 
+
+
+📊 GitHub Stats
+![ShubhamTech1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTech1&show_icons=true&theme=radical)
+
+📫 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/shubham-bhujade-b09264172
+
+
+
+👩‍💻 My Data Science Portfolio : 
 
 Welcome to my data science journey! I am a passionate data science student eager to explore the vast world of data. Below, you'll find a collection of my projects, skills, and learning experiences.
 
@@ -124,12 +134,6 @@ Tools: Jupyter Notebooks, GitHub
 
 🌱 Learning Goals :
 I am currently focusing on enhancing my skills in Data Analytics and Data Science Field.
-
-📊 GitHub Stats
-![ShubhamTech1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamTech1&show_icons=true&theme=radical)
-
-📫 Let's Connect!
-LinkedIn: [Your LinkedIn Profile]
 
 Feel free to explore my projects and provide feedback. I'm open to collaborations and always excited to learn from others! 🌟
 
