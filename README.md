@@ -73,7 +73,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   - **Data Visualization:** Matplotlib, Seaborn
   - **Jupyter Notebooks:** Used for model development and analysis
 
-- **Link to Repository:**https://github.com/ShubhamTech1/2nd-Project/tree/main
+- Link to Repository:(https://github.com/ShubhamTech1/2nd-Project/tree/main)
 
 
 
@@ -100,7 +100,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   6. **Insights and Recommendations:** Provide insights into the relationship between sorting and delivery time and suggest potential optimizations for the logistics 
        process.
 
-- **Link to Repository:**https://github.com/ShubhamTech1/3rd-Project
+- Link to Repository:(https://github.com/ShubhamTech1/3rd-Project)
 
 
 🛠️ **Skills**
