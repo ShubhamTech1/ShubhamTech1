@@ -73,7 +73,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   - **Data Visualization:** Matplotlib, Seaborn
   - **Jupyter Notebooks:** Used for model development and analysis
 
-- **Link to Repository:** [Link to the GitHub repository]
+- **Link to Repository:**https://github.com/ShubhamTech1/2nd-Project/tree/main
 
 
 
