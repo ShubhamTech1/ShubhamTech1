@@ -41,16 +41,16 @@ Welcome to my data science journey! I am a passionate data science student eager
   - **Data Manipulation and Analysis:** Pandas, NumPy
   - **Data Visualization:** Matplotlib, Seaborn
   - **Jupyter Notebooks:** Used for exploratory data analysis (EDA) and model Building
+  - **Model Deployment:** streamlit, flask
 
 - **Objectives:**
-  1. **Data Collection:** Gather a comprehensive dataset containing information on individuals, including different-different features
-  2. **Exploratory Data Analysis (EDA):** Conduct exploratory data analysis (EDA) to gain insights into the characteristics of the dataset. This involves visualizing the 
-     distributions of key features
-  3. **Data Preprocessing:** Handle any missing values, outliers, or necessary encoding of variables.   
-  4. **Model Development:** Implement the Naive Bayes classification algorithm using the training dataset.
-  5. **Model Evaluation :** Interpret the model's predictions and evaluate its generalization to unseen data.
-  6. **Insights and Recommendations:** Apply the trained Naive Bayes model to predict salary categories for new or unseen data.
-   
+  1. Automate the extraction of essential information from retail receipts or invoices to streamline data capture processes.
+  2. Ensure high accuracy and robustness in extracting item details, prices, dates, and other relevant data from various store bill formats.
+  3. Develop scalability to efficiently handle large transaction volumes while seamlessly integrating with existing business workflows and software applications.
+  4. Enable the storage of extracted data in a tabular format, facilitating analysis for accounting, billing, and inventory management purposes.
+  5. Support forecasting of future customer trends through comprehensive data analysis, aiding in strategic decision-making processes.
+
+
 - **Link to Repository:** (https://github.com/ShubhamTech1/1st-Project) 
 
 
