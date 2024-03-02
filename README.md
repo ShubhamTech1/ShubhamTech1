@@ -29,7 +29,52 @@ LinkedIn: https://www.linkedin.com/in/shubham-bhujade-b09264172
 
 Welcome to my data science journey! I am a passionate data science student eager to explore the vast world of data. Below, you'll find a collection of my projects, skills, and learning experiences.
 
-🚀 Projects:
+🚀 live Projects:
+
+1] Text Extraction from retail store Bills:
+
+- **Description:** The project aims to develop an automated text extraction system for retail store invoices, using Optical Character Recognition (OCR) and Natural Language Processing (NLP) techniques. The system will feature a natural user interface allowing to upload diverse invoice formats, including scanned images and digital documents. Key data fields such as invoice numbers, dates, product details, and amounts will be accurately extracted, promoting efficiency in data entry processes.
+- 
+- **Technologies Used:**
+  - **Programming Language:** Python
+  - **Machine Learning Libraries:** Scikit-Learn, Open CV, OCR
+  - **Data Manipulation and Analysis:** Pandas, NumPy
+  - **Data Visualization:** Matplotlib, Seaborn
+  - **Jupyter Notebooks:** Used for exploratory data analysis (EDA) and model Building
+
+- **Objectives:**
+  1. **Data Collection:** Gather a comprehensive dataset containing information on individuals, including different-different features
+  2. **Exploratory Data Analysis (EDA):** Conduct exploratory data analysis (EDA) to gain insights into the characteristics of the dataset. This involves visualizing the 
+     distributions of key features
+  3. **Data Preprocessing:** Handle any missing values, outliers, or necessary encoding of variables.   
+  4. **Model Development:** Implement the Naive Bayes classification algorithm using the training dataset.
+  5. **Model Evaluation :** Interpret the model's predictions and evaluate its generalization to unseen data.
+  6. **Insights and Recommendations:** Apply the trained Naive Bayes model to predict salary categories for new or unseen data.
+   
+- **Link to Repository:** (https://github.com/ShubhamTech1/1st-Project) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀Mini Projects:
 
 1] Build a machine learning classification model to assist in income categorization:
 
