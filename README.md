@@ -57,7 +57,7 @@ Welcome to my data science journey! I am a passionate data science student eager
 2] Optimization of kit Item Distribution:
 
 - **Description:** This project aims to enhance efficiency by optimizing the allocation of kit items based on factors such as demand, availability, and logistical constraints. The overarching goal is to minimize wastage, reduce distribution costs, and improve overall resource utilization. Additionally, the project seeks to enhance customer satisfaction by ensuring timely and accurate delivery of kit items while maintaining inventory levels within acceptable thresholds.
-- 
+  
 - **Technologies Used:**
   - **Programming Language:** Python
   - **Machine Learning Libraries:** Scikit-Learn
