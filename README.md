@@ -51,7 +51,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   5. Support forecasting of future customer trends through comprehensive data analysis, aiding in strategic decision-making processes.
 
 
-- **Link to Repository:** (https://github.com/ShubhamTech1/1st-Project) 
+- **Link to Repository:** https://github.com/ShubhamTech1/internship-projects1
 
 
 
