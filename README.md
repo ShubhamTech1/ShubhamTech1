@@ -54,7 +54,7 @@ Welcome to my data science journey! I am a passionate data science student eager
 - **Link to Repository:** https://github.com/ShubhamTech1/internship-projects1
 
 
-1] Optimization of kit item Distribution:
+2] Optimization of kit Item Distribution:
 
 - **Description:** This project aims to enhance efficiency by optimizing the allocation of kit items based on factors such as demand, availability, and logistical constraints. The overarching goal is to minimize wastage, reduce distribution costs, and improve overall resource utilization. Additionally, the project seeks to enhance customer satisfaction by ensuring timely and accurate delivery of kit items while maintaining inventory levels within acceptable thresholds.
 - 
@@ -73,7 +73,7 @@ Welcome to my data science journey! I am a passionate data science student eager
   3. Enhance resource utilization by ensuring that kit items are distributed in a manner that maximizes their utility and minimizes excess inventory levels.
  
 
-- **Link to Repository:** https://github.com/ShubhamTech1/internship-projects1
+- **Link to Repository:** https://github.com/ShubhamTech1/Internship-project2
 
 
 
