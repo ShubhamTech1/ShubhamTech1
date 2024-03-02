@@ -34,8 +34,8 @@ Welcome to my data science journey! I am a passionate data science student eager
 1] Text Extraction from retail store Bills:
 
 - **Description:** The project aims to develop an automated text extraction system for retail store invoices, using Optical Character Recognition (OCR) and Natural Language Processing (NLP) techniques. The system will feature a natural user interface allowing to upload diverse invoice formats, including scanned images and digital documents. Key data fields such as invoice numbers, dates, product details, and amounts will be accurately extracted, promoting efficiency in data entry processes.
-- 
-- **Technologies Used:**
+
+  - **Technologies Used:**
   - **Programming Language:** Python
   - **Machine Learning Libraries:** Scikit-Learn, Open CV, OCR
   - **Data Manipulation and Analysis:** Pandas, NumPy
